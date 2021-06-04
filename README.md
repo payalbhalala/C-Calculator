@@ -10,4 +10,17 @@
 3. Changed the decimals.
 
 ![Changed to decimal](https://user-images.githubusercontent.com/65688803/120851622-132d0700-c547-11eb-9411-9ba077d2d3f8.JPG)
-4. 
+
+4. Changed the output from float to double
+
+![Changed float to double](https://user-images.githubusercontent.com/65688803/120852281-fd6c1180-c547-11eb-9b1f-47e609983c7a.JPG)
+
+5.Entered a non zero divisor which allows attempt upto when non zero number is entered. 
+
+![Entered a non-zero divisor](https://user-images.githubusercontent.com/65688803/120852178-de6d7f80-c547-11eb-8202-9d01b0218438.JPG)
+
+6. Completed calculator running.
+
+![Complete running calculator](https://user-images.githubusercontent.com/65688803/120852151-d6addb00-c547-11eb-8d19-3ba7941e6ce4.JPG)
+
+
