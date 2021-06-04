@@ -11,7 +11,7 @@
 
 ![Changed to decimal](https://user-images.githubusercontent.com/65688803/120851622-132d0700-c547-11eb-9411-9ba077d2d3f8.JPG)
 
-4. Changed the output from float to double
+4. Changed float functionality.
 
 ![Changed float to double](https://user-images.githubusercontent.com/65688803/120852281-fd6c1180-c547-11eb-9b1f-47e609983c7a.JPG)
 
